@@ -1,0 +1,11 @@
+.lh/
+.history/
+output/
+.vscode/
+data/
+
+*.log
+
+local_*
+
+__debug_*
